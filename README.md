@@ -4,12 +4,16 @@
 
 <h2 align="center">📊&ensp; <i>S t a t u s</i></h2>
 <br>
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=GuilhermeNobrega&column=6&margin-w=30&margin-h=15&theme=ambient_gradient" alt="Trophies"/>
-    </a>
-  </p>
-  <br>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=nevuwuaze&column=6&margin-w=25&margin-h=15&theme=radical&no-bg=true&no-frame=false" 
+         alt="GitHub Trophies" 
+         height="250"
+         style="border-radius:15px; box-shadow: 0 0 25px #00FFF7;"/>
+  </a>
+</p>
+<br>
+
   
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeNobrega/GuilhermeNobrega/output/pacman-contribution-graph-dark.svg">
